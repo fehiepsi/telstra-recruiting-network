@@ -1,2 +1,2 @@
 # telstra_recruiting_network
-a kaggle competition: to practice feature engineering
+practice feature engineering to the competition https://www.kaggle.com/c/telstra-recruiting-network
